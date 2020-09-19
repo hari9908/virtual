@@ -1,4 +1,4 @@
-package com.jwt.dao;
+package com.virtual.dao;
 
 import java.util.List;
 import com.jwt.model.Employee;

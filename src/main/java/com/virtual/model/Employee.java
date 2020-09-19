@@ -1,4 +1,4 @@
-package com.jwt.model;
+package com.virtual.model;
 
 import java.io.Serializable;
 
